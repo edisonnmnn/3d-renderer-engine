@@ -4,6 +4,8 @@ A real-time 3D renderer and rigid body physics engine built from scratch in C++.
 
 Three self-contained implementations, each building on the last.
 
+> **Note:** Currently in development — working on building upon the individual projects so far
+
 ---
 
 ## Projects
