@@ -1,4 +1,4 @@
-# 3D Renderer & Physics Engine — Level 3
+# 3D Renderer & Physics Engine
 
 A real-time 3D renderer and rigid body physics engine written from scratch in C++. No external math or graphics libraries — custom `Vec3`, `Mat4`, software rasterizer, and physics solver built on top of SDL2 for windowing.
 
